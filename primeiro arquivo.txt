@@ -15,7 +15,13 @@ bbbbbbbbbbbbbbbbb
 >>>>>>> 5fe0e11... Adicionado bbbbbbbbb
 =======
 cccccccccccccccccc
-
 sdadsdasdasdasdadasdasdaad
 asdaddaadasdada
+<<<<<<< HEAD
 >>>>>>> eee85c3... Adicionado ausdhsudhu
+=======
+dasasdasdasd
+asdasd
+
+asdasdsad
+>>>>>>> b064422... Adicionado eeeeeeeeeeeeeeeadasdasdasda
