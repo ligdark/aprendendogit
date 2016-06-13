@@ -11,4 +11,11 @@ aaaaaaaaaaaaaa
 =======
 aaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
+<<<<<<< HEAD
 >>>>>>> 5fe0e11... Adicionado bbbbbbbbb
+=======
+cccccccccccccccccc
+
+sdadsdasdasdasdadasdasdaad
+asdaddaadasdada
+>>>>>>> eee85c3... Adicionado ausdhsudhu
