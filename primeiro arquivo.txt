@@ -18,10 +18,16 @@ cccccccccccccccccc
 sdadsdasdasdasdadasdasdaad
 asdaddaadasdada
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> eee85c3... Adicionado ausdhsudhu
 =======
+=======
+>>>>>>> 5ca9f7b... Adicionado adasdasdasda
 dasasdasdasd
 asdasd
 
 asdasdsad
+<<<<<<< HEAD
 >>>>>>> b064422... Adicionado eeeeeeeeeeeeeeeadasdasdasda
+=======
+>>>>>>> 5ca9f7b... Adicionado adasdasdasda
