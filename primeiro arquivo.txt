@@ -3,7 +3,12 @@ sadasd
 Tommmmmmmmmm
 Willllllllllllllllllllll
 <<<<<<< HEAD
+<<<<<<< HEAD
 cccccccccccccccccc
 =======
 aaaaaaaaaaaaaa
 >>>>>>> bb3b81e... Adicionado aaaaaa
+=======
+aaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbb
+>>>>>>> 5fe0e11... Adicionado bbbbbbbbb
